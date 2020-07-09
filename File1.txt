@@ -1,8 +1,10 @@
 Hello world !
-public static void main(){
+public static void main class(){
 	sysout("Hello world");
 }
 
 new change added
 
 Git clone
+
+neew commit
