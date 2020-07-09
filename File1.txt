@@ -1,5 +1,7 @@
 Hello world !
-private static void main(){
+
+public static void main class(){
+
 	sysout("Hello world");
 	return string;
 }
@@ -7,3 +9,5 @@ private static void main(){
 new change added
 
 Git clone
+
+neew commit
