@@ -1,6 +1,7 @@
 Hello world !
-public static void main(){
+private static void main(){
 	sysout("Hello world");
+	return string;
 }
 
 new change added
